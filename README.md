@@ -1,1 +1,3 @@
-# senior-k0tik.github.io
+# just-test-pages
+
+Welcome to test site of Github Pages
